@@ -1,4 +1,3 @@
-# PAC3_Manovich_Reloaded
 # **La multimèdia i la hibridació dels mitjans**
 
 ![img.freepik.com.com](https://img.freepik.com/foto-gratis/descomposicion-persona-que-usa-gafas-vr_23-2149089514.jpg?t=st=1671304835~exp=1671305435~hmac=a7933a40a752a579b9c496f7a1158c582041fb6854718e1042b4d6f3f19aba9a)
