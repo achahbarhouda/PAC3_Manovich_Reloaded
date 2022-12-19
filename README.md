@@ -70,6 +70,7 @@ En el cas d’hibridació de l'Ocenogràfic compta amb el cinema 4D més gran d'
 
 A més més, la utilització de les ulleres i les plataformes hidràuliques ofereixen efectes més forts i graus de moviment més precisos. Els braços de cada seient tenen uns orificis per on surten l’aigua, les ràfegues de vent i també les aromes.
 ![America Wild: Parques Naturales - película: Ver online](https://www.justwatch.com/images/backdrop/248541492/s640/national-parks-adventure)
+
 En el cinema 4D, emeten una de les pel·licules amb més demanda: ***America Wild: Parcs naturals***. Porta el públic a l'última aventura fora dels camins a l'aire lliure i a la natura indómita del país. Gràcies al cinema 4D porta els espectadors a sobrevolar els canyons de roca vermella, pujant a cims escarpats de les muntanyes i cap a regnes d'un altre món que es troben als parcs infantils a l'aire lliure més llegendaris *d'Amèrica: Yellowstone, Glacier National Park, Yosemite i Arches*.
 
 ## Bibliografia
