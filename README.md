@@ -62,6 +62,7 @@ Si us agrada alguna obra, la podeu afegir a la secció *"Preferits”* clicant a
 
 
 
+
 Molts de nosaltres haurem escoltat parlar del cinema 4D que s’ha convertit durant el pas dels anys en una solució de programari innovador de modelatge, animació, simulació i renderitzat 3D. El conjunt d'eines que conté flexibles i estables fa que els fluxos de treball siguin més accessibles i eficients per al disseny, els gràfics en moviment, etc.
 
 A més a més, permet la creació de contingut complex i de qualitat d'una manera molt intuïtiva. Un dels punts forts d'aquest programari és MoGraph, un poderós conjunt d'eines que poden fer gràfics en moviment de manera senzilla. Les seves característiques permeten, clonar objectes, afegir efectes i crear moviments de manera ràpida.
@@ -69,7 +70,10 @@ A més a més, permet la creació de contingut complex i de qualitat d'una maner
 En el cas d’hibridació de l'Ocenogràfic compta amb el cinema 4D més gran d'Espanya amb més de 190 localitats que fan que l'experiència de veure una pel·lícula sigui única. A la sala de projeccions els visitants arriben a experimentar sensacions com el fred, colors, neu, canvis de llum i també el sistema de seients de vibració.
 
 A més més, la utilització de les ulleres i les plataformes hidràuliques ofereixen efectes més forts i graus de moviment més precisos. Els braços de cada seient tenen uns orificis per on surten l’aigua, les ràfegues de vent i també les aromes.
+
+
 ![America Wild: Parques Naturales - película: Ver online](https://www.justwatch.com/images/backdrop/248541492/s640/national-parks-adventure)
+
 
 En el cinema 4D, emeten una de les pel·licules amb més demanda: ***America Wild: Parcs naturals***. Porta el públic a l'última aventura fora dels camins a l'aire lliure i a la natura indómita del país. Gràcies al cinema 4D porta els espectadors a sobrevolar els canyons de roca vermella, pujant a cims escarpats de les muntanyes i cap a regnes d'un altre món que es troben als parcs infantils a l'aire lliure més llegendaris *d'Amèrica: Yellowstone, Glacier National Park, Yosemite i Arches*.
 
