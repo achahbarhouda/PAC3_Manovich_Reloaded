@@ -9,7 +9,7 @@ Els canvis del món dels mitjans són diversos, no passa dia sense detectar nove
 
 Podriem dir que l’era analògica conviu amb l’era digital, reviuen mitjans que havien quedat en l’oblit, la tecnologia dels dispositius mòbils dona lloc en una nova manera audiovisual i la distribució tradicional limidada comença a expandir-se per altres maneres, sobretot l’internet. Així doncs, la hibridació crea noves realitats i noves possibilitats, tant de comunicació, de llenguatge, de narratives i de fusions tecnològiques.
 
-Per exemple una forma d’hibridació és la relació que tenen les xarxes socials i la televisió al fusionar-se es crea un nou mitjà: com els reels.
+Per exemple, una forma d’hibridació és la relació que tenen les xarxes socials i la televisió al fusionar-se es crea un nou mitjà: com els reels.
 Són inumerables exemples d’evolució dins de l'univers tant extens com pot ser el de la comunicació multimèdia que es donen precisament a partir d'aquesta fusió de mitjans, elements i tècniques de programari.
 
 En aquesta pràctica m’enfocaré en destacar a partir de dos exemples d’hibridació els aspectes que diferencien i mostren aquesta evolució mediàtica.
@@ -22,9 +22,9 @@ Per què? La resposta és clara, la hibridació d’aquest públic ha sigut el g
 
 **Google Arts & Culture**
 
+![Google Arts & Culture](https://eu-admin.eventscloud.com/file_uploads/9b0399e0b66a095c6a12bf662459627f_GoogleArtsCulturelogo.png)
 
-
-L’aplicació Google Arts & Culture va ser creada per l’Institut Cultural de Google. És una eina que mostra tots els edificis culturals que hi ha arreu del món i està dirigida a un públic objectiu bastant curiós i interessats per descobrir noves obres, col·leccions i històries.
+L’aplicació ***Google Arts & Culture*** va ser creada per l’Institut Cultural de Google. És una eina que mostra tots els edificis culturals que hi ha arreu del món i està dirigida a un públic objectiu bastant curiós i interessats per descobrir noves obres, col·leccions i històries.
 
 És una manera bastant intuïtiva i simple. Està dividida per diferents categories específiques que permeten orientar la cerca com per exemple: artistes, tècniques artístiques, corrents artístics, esdeveniments històrics, personatges històrics i llocs. Aquesta eina és molt útil per treballar i comprendre les assignatures com l’art i la història. Seguidament explicarem breument les diferents categories:
 
@@ -58,6 +58,10 @@ Si us agrada alguna obra, la podeu afegir a la secció *"Preferits”* clicant a
 
 **Cinema 4D - Oceanogràfic**
 
+![Ciudad de las Artes y las Ciencias de Valencia: película 3D | GetYourGuide](https://cdn.getyourguide.com/img/tour/622b5bc9bf5d6.jpg/146.jpg)
+
+
+
 Molts de nosaltres haurem escoltat parlar del cinema 4D que s’ha convertit durant el pas dels anys en una solució de programari innovador de modelatge, animació, simulació i renderitzat 3D. El conjunt d'eines que conté flexibles i estables fa que els fluxos de treball siguin més accessibles i eficients per al disseny, els gràfics en moviment, etc.
 
 A més a més, permet la creació de contingut complex i de qualitat d'una manera molt intuïtiva. Un dels punts forts d'aquest programari és MoGraph, un poderós conjunt d'eines que poden fer gràfics en moviment de manera senzilla. Les seves característiques permeten, clonar objectes, afegir efectes i crear moviments de manera ràpida.
@@ -65,8 +69,8 @@ A més a més, permet la creació de contingut complex i de qualitat d'una maner
 En el cas d’hibridació de l'Ocenogràfic compta amb el cinema 4D més gran d'Espanya amb més de 190 localitats que fan que l'experiència de veure una pel·lícula sigui única. A la sala de projeccions els visitants arriben a experimentar sensacions com el fred, colors, neu, canvis de llum i també el sistema de seients de vibració.
 
 A més més, la utilització de les ulleres i les plataformes hidràuliques ofereixen efectes més forts i graus de moviment més precisos. Els braços de cada seient tenen uns orificis per on surten l’aigua, les ràfegues de vent i també les aromes.
-
-En el cinema 4D, emeten una de les pel·licules amb més demanda: ***America Wild: Parcs naturals***. Porta el públic a l'última aventura fora dels camins a l'aire lliure i a la natura indómita del país. Amb el cinema 4D porta els espectadors a sobrevolar els canyons de roca vermella, pujant a cims escarpats de les muntanyes i cap a regnes d'un altre món que es troben als parcs infantils a l'aire lliure més llegendaris *d'Amèrica, com Yellowstone, Glacier National Park, Yosemite i Arches*.
+![America Wild: Parques Naturales - película: Ver online](https://www.justwatch.com/images/backdrop/248541492/s640/national-parks-adventure)
+En el cinema 4D, emeten una de les pel·licules amb més demanda: ***America Wild: Parcs naturals***. Porta el públic a l'última aventura fora dels camins a l'aire lliure i a la natura indómita del país. Gràcies al cinema 4D porta els espectadors a sobrevolar els canyons de roca vermella, pujant a cims escarpats de les muntanyes i cap a regnes d'un altre món que es troben als parcs infantils a l'aire lliure més llegendaris *d'Amèrica: Yellowstone, Glacier National Park, Yosemite i Arches*.
 
 ## Bibliografia
 
@@ -89,3 +93,5 @@ https://www.puntocomunica.com/el-hemisferic-y-el-cine-4d-del-auditorio-mar-rojo-
 
 ***WikiWand*** [en línia] [consulta: 18 de desembre 2022]. Disponible a: 
 https://www.wikiwand.com/es/Cine_4D
+
+
